@@ -16,7 +16,7 @@ module.exports = function (grunt) {
             dest: 'examples/_site/examples.json'
             }
         },
-
+        // some changes
         connect: {
             root: {
                 options: {
